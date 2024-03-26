@@ -26,7 +26,7 @@ const SignUp = () => {
             </select>
           </div>
           <div className='text-[14px]'>
-            Already have an account? <p className="border-[1px] inline-block text-black border-black px-[10px] py-[3px] rounded-md font-[400px] text-[12px]">Log in</p>
+            Already have an account? <p className="border-[1px] cursor-pointer inline-block text-black border-black px-[10px] py-[3px] rounded-md font-[400px] text-[12px]">Log in</p>
           </div>
         </div>
 
