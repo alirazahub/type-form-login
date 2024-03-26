@@ -41,7 +41,7 @@ const SignUp = () => {
               <button className="flex items-center bg-transparent text-center text-black border-[1px] border-black px-4 w-[290px] font-[400px] py-2 rounded-lg mb-2"><FcGoogle size={25} className="mr-2 "/> Sign up with Google</button>
               <button className="bg-transparent flex items-center text-black border-[1px] border-black px-4 w-[290px] font-[400px] py-2 rounded-lg mb-2"><img className="w-[8%] mr-2" src="/microsoftLogo.png" alt="microsoftlogo"/> Sign up with Microsoft</button>
               <div className='m-2'>OR</div>
-              <button className="bg-transparent text-white  border-[1px] bg-black hover:bg-gray-900 px-4 w-[290px] font-[400px] py-2 rounded-lg"> Sign up with email</button>
+              <button className=" text-white  border-[1px] bg-black hover:bg-gray-900 px-4 w-[290px] font-[400px] py-2 rounded-lg"> Sign up with email</button>
             </div>
           </div>
         </div>
