@@ -26,7 +26,7 @@ const SignUp = () => {
             </select>
           </div>
           <div className='text-[14px]'>
-            Already have an account? <a href="#" className="border-[1px] text-black border-black px-[10px] py-[3px] rounded-md font-[400px] text-[12px]">Log in</a>
+            Already have an account? <p className="border-[1px] text-black border-black px-[10px] py-[3px] rounded-md font-[400px] text-[12px]">Log in</p>
           </div>
         </div>
 
